@@ -6,4 +6,4 @@ Open PollIMDB.pro in Qt
 
 Login or create new account
 
-whne enter you can comment film
+when enter you can comment film
