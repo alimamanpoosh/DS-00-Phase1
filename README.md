@@ -1,8 +1,2 @@
-
-
-
-Install Qt 
-
-open 
-
-
+Insatll Qt
+Open 
