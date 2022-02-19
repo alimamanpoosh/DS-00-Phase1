@@ -1,3 +1,4 @@
+# with Qwidget
 Insatll Qt
 
 Open PollIMDB.pro in Qt
